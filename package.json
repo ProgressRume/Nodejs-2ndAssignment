@@ -1,0 +1,24 @@
+{
+  "name": "fejiro-npm",
+  "version": "1.0.0",
+  "description": "npm created for node assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgressRume/odejs-2ndAssignment.git"
+  },
+  "author": "Progress Oghenerume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgressRume/odejs-2ndAssignment/issues"
+  },
+  "homepage": "https://github.com/ProgressRume/odejs-2ndAssignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
